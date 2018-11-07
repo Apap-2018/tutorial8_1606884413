@@ -1,0 +1,2 @@
+1. Fungsi BcryptPasswordEncoder adalah untuk encoding password. Password yang diberikan oleh user akan diteruskan melalui fungsi hash sehingga password yang berada di database adalah string hasil fungsi hash bukan password sebenarnya. Fungsi hash sendiri berfungsi satu arah (String yang sudah di hash tidak bisa kembali seperti semula)
+2. Fungsi kode diatas adalah untuk  menyimpan sebuah String yang akan menentukan hak akses terhadap suatu halaman, yang pada tutorial ini yang menjadi pembuat keputusan adalah role user yaitu PILOT atau ADMIN
