@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Tutorial8Application<tutorial8>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.apap.tutorial8.Tutorial8Application",
+            "projectName": "tutorial8",
+            "args": ""
+        }
+    ]
+}
